@@ -126,6 +126,7 @@ div{
     position: relative;
     background: transparent;
     width: 100%;
+    left:0;
     height: 15%;
     overflow: hidden;
     display: inline-flex;
