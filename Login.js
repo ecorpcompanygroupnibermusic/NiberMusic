@@ -14,7 +14,7 @@ let LoginData='\
 <br><br>\
 <button id="Dark1" onClick="Create()">Create Account</button>\
 </div>\
-<form action="" method="post" id="sheetdb-form">\
+<form action="https://sheetdb.io/api/v1/g1fhaalzpqmhl" method="post" id="sheetdb-form">\
     <h1>Create Account To Continue</h1>\
     <br><br>\
     <span id="label">UserName</span>\
@@ -24,7 +24,7 @@ let LoginData='\
     <input id="Mail" type="email" name="Email" placeholder="Email" required>\
     <br><br>\
     <span id="label">Password</span>\
-    <input id="Code" type="password" name="UserName" placeholder="Password" maxlength="16" minlength="8" required>\
+    <input id="Code" type="password" name="Password" placeholder="Password" maxlength="16" minlength="8" required>\
     <br><br>\
     <span id="label">Date Of Birth</span>\
     <input type="date" name="Date">\
@@ -56,18 +56,28 @@ Log=()=>{
     Dark1.style.display="block";
 }
 CreateAccount=()=>{
-    let LoginData=document.querySelector('#LoginData');
     let User=document.querySelector('#User').value;
     let Mail=document.querySelector('#Mail').value;
-    let Code=document.querySelector('#Code').value;
-    let form = document.getElementById('sheetdb-form');
-    if (User.length>=1&&Mail.length>=1&&Code.length>=1) {
-        localStorage.setItem('NiberUser',User);
-        localStorage.setItem('NiberMail',Mail);
-        localStorage.setItem('NiberPassword',Code);  
-    } else {
-        return false;
-    }    
+    let Code=document.querySelector('#Code').value;  
+    var form = document.getElementById('sheetdb-form');
+    form.addEventListener("submit", e => {
+      e.preventDefault();
+      fetch(form.action, {
+          method : "POST",
+          body: new FormData(document.getElementById("sheetdb-form")),
+      }).then(
+          response => response.json()
+      ).then((html) => {
+        if (User.length>=1&&Mail.length>=1&&Code.length>=1) {
+            localStorage.setItem('NiberUser',User);
+            localStorage.setItem('NiberMail',Mail);
+            localStorage.setItem('NiberPassword',Code);  
+            Login.style.display="none"; 
+        }else{
+            return false;
+        }
+      });
+    });
 }
 LogIN=()=>{
  let User1=document.getElementById('User1').value;
