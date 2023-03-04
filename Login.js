@@ -14,7 +14,7 @@ let LoginData='\
 <br><br>\
 <button id="Dark1" onClick="Create()">Create Account</button>\
 </div>\
-<form action="https://sheetdb.io/api/v1/8ly8fwh5gdm76" method="post" id="sheetdb-form">\
+<form action="https://sheetdb.io/api/v1/g1fhaalzpqmhl" method="post" id="sheetdb-form">\
     <h1>Create Account To Continue</h1>\
     <br><br>\
     <span id="label">UserName</span>\

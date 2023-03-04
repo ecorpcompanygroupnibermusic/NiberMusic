@@ -2,7 +2,7 @@ let ArtistData='\
 <h1 id="Message"></h1>\
 <div  id="Musician" onclick="Erou()">\
 <span id="ArtistName">Erou Andrew Richard</span>\
-<img id="ArtistImage" src="https://drive.google.com/uc?export=download&id=1eS4Pu85i-Cr9xhaUQc-18VbWA9qIwZxT">\
+<img loading="lazy" id="ArtistImage" src="https://drive.google.com/uc?export=download&id=1eS4Pu85i-Cr9xhaUQc-18VbWA9qIwZxT">\
 </div>\
 <div  id="Musician"  onclick="TimoKeiz()">\
 <span id="ArtistName">Timo Keiz</span>\
