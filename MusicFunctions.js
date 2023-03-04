@@ -1,0 +1,15 @@
+Erou=()=>{
+    DIV.innerHTML=ErouData;
+}
+TimoKeiz=()=>{
+    DIV.innerHTML=TimoData;
+}
+Essen=()=>{
+    DIV.innerHTML=EssenData;
+}
+Timo_Zord=()=>{
+    DIV.innerHTML=TimoZordData;
+}
+SpiffDon=()=>{
+    DIV.innerHTML=SpiffDonData; 
+}

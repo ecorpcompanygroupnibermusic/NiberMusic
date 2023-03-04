@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Niber Music</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<script src="Login.js"></script>
+<script src="header.js"></script>
+<script src="footer.js"></script>
+<script src="News.js"></script>
+<script src="Music.js"></script>
+<script src="Artist.js"></script>
+<script src="Settings.js"></script>
+<script src="MusicFunctions.js"></script>
+<script src="ErouAndrewRichard.js"></script>
+<script src="TimoKeiz.js"></script>
+<script src="NiberArtist.js"></script>
+<script src="ArtistConsole.js"></script>
+<script src="BecomeMember.js"></script>
+<script src="ArtistPost.js"></script>
+<script src="ConsoleData.js"></script>
+<script src="ConsoleFunctions.js"></script>
+<script src="ContactUs.js"></script>
+<script src="AboutUS.js"></script>
+<script src="NiberAppeals.js"></script>
+<script src="AccountDeletion.js"></script>
+<script src="TrackDeletion.js"></script>
+<script src="TrackAppeal.js"></script>
+<script src="Essen.js"></script>
+<script src="ArtistCode.js"></script>
+<script src="TimoZord.js"></script>
+<script src="ArtistID.js"></script>
+<script src="SpiffDon.js"></script>
+<script>
+  // Disable right-click
+document.addEventListener('contextmenu', (e) => e.preventDefault());
+function ctrlShiftKey(e, keyCode) {
+return e.ctrlKey && e.shiftKey && e.keyCode === keyCode.charCodeAt(0);
+}document.onkeydown = (e) => {
+// Disable F12, Ctrl + Shift + I, Ctrl + Shift + J, Ctrl + U
+if (
+  event.keyCode === 123 ||
+  ctrlShiftKey(e, 'I') ||
+  ctrlShiftKey(e, 'J') ||
+  ctrlShiftKey(e, 'C') ||
+  (e.ctrlKey && e.keyCode === 'U'.charCodeAt(0))
+)
+  return false;
+};
+document.onkeydown = function(e) {
+      if (e.ctrlKey && 
+          (e.keyCode === 67 ||
+          e.keyCode === 97 ||
+          e.keyCode === 65 ||
+           e.keyCode === 99 || 
+           e.keyCode === 86 || 
+           e.keyCode === 86 || 
+           e.keyCode === 85 ||
+           e.keyCode === 83 ||
+           e.keyCode === 88 ||
+           e.keyCode === 90 ||
+           e.keyCode === 105 ||
+           e.keyCode === 73 ||
+           e.keyCode === 117)||e.keyCode === 123) {
+          return false;
+      } else {
+          return true;
+      }
+};
+</script>
+<body>
+    <header></header>
+    <div></div>
+    <footer></footer>  
+    <div id="Login"></div>
+    <img id="Logo" src="https://drive.google.com/uc?export=download&id=1UYa0IS_iwelvpJOP1ajKAamTgjvp4vcC" alt="Niber Music">
+</body>
+<script src="main.js"></script>
+</html>
