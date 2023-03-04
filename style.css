@@ -237,6 +237,13 @@ a{
     width: 36px;
     border-radius: 50px;
 }
+#Contact12{
+    position: relative;
+    width: 36px;
+    border-radius: 50px;
+    margin-top: auto;
+    margin-bottom: bottom;
+}
 #Login{
     position: fixed;
     width: 100%;
