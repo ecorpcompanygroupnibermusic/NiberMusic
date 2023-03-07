@@ -6,36 +6,6 @@ let ErouData='\
     <hr>\
     <audio  controls muted src="song.mp3" ></audio>\
     </div>\
-    <div id="MusicHolder">\
-    <h1 id="songtitle"> ft Billy_Ocean And Jeff Hanns-Banger</h1>\
-    <hr>\
-    <audio  controls muted src="song.mp3" ></audio>\
-    </div>\
-    <div id="MusicHolder">\
-    <h1 id="songtitle"> ft Billy_Ocean And Jeff Hanns-Banger</h1>\
-    <hr>\
-    <audio  controls muted src="song.mp3" ></audio>\
-    </div>\
-    <div id="MusicHolder">\
-    <h1 id="songtitle"> ft Billy_Ocean And Jeff Hanns-Banger</h1>\
-    <hr>\
-    <audio  controls muted src="song.mp3" ></audio>\
-    </div>\
-    <div id="MusicHolder">\
-    <h1 id="songtitle"> ft Billy_Ocean And Jeff Hanns-Banger</h1>\
-    <hr>\
-    <audio  controls muted src="song.mp3" ></audio>\
-    </div>\
-    <div id="MusicHolder">\
-    <h1 id="songtitle"> ft Billy_Ocean And Jeff Hanns-Banger</h1>\
-    <hr>\
-    <audio  controls muted src="song.mp3" ></audio>\
-    </div>\
-    <div id="MusicHolder">\
-    <h1 id="songtitle"> ft Billy_Ocean And Jeff Hanns-Banger</h1>\
-    <hr>\
-    <audio  controls muted src="song.mp3" ></audio>\
-    </div>\
     <div id="MusicHolder1">\
     <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1n4s5s6KKovyOydXh_y0dc1G5aAeMIFnJ"></a>\
     <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1SFKgWS2Wq7FTod1Jn-Uda4OZw8Tbq_SF"></a>\
