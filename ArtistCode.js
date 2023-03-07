@@ -18,6 +18,7 @@ ArtistCode=()=>{
         case CodeEmail='marcellinohaaron96@gmail.com':
             DIV.innerHTML=SpiffDonConsole;
             break;
+             /*
         //Timo Keiz ID
         case Code='T-991-200':
         case CodeEmail='timokeiz@gmail.com':
@@ -28,7 +29,6 @@ ArtistCode=()=>{
         case CodeEmail='kibzord@gmail.com':
             DIV.innerHTML=TimoConsole;
             break;
-        /*
         //=== ID
         case Code='A-060-500':
         case CodeEmail='':

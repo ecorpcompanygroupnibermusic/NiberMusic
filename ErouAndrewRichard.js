@@ -1,5 +1,5 @@
 let ErouData='\
-    <img loading="lazy" src="https://drive.google.com/uc?export=download&id=1eS4Pu85i-Cr9xhaUQc-18VbWA9qIwZxT" id="ArtistImages">\
+    <img loading="lazy" src="https://drive.google.com/uc?export=download&id=14XnWeCTWD58yoaoYVR8IHxjNiQTik41R" id="ArtistImages">\
     <h1 id="songArtist">EROU ANDREW RICHARD</h1>\
     <div id="MusicHolder">\
     <h1 id="songtitle"> ft Billy_Ocean And Jeff Hanns-Banger</h1>\

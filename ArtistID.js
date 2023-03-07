@@ -18,6 +18,7 @@ ArtistID=()=>{
         case PasswordArea1='Kingstonecity12':
             Message.innerHTML=('---Your Artist Id Is'+'_'+ 'S-303-001---')
             break;
+        /*
         //Kib Zord ID
         case CodeEmail='kibzord@gmail.com':
         case PasswordArea1='kibzordi':
@@ -28,7 +29,7 @@ ArtistID=()=>{
         case PasswordArea1='ManCityi':
             Message.innerHTML=('---Your Artist Id Is'+'_'+ 'T-991-200---')
             break;
-        /*
+     
         //===ID
         case CodeEmail='':
         case PasswordArea1='':

@@ -118,7 +118,7 @@ div{
     position: relative;
     background: transparent;
     width: 80%;
-    height: 15%;
+    height: 20%;
     overflow: hidden;
     display: inline-flex;
     border-radius: 10px;
@@ -128,8 +128,7 @@ div{
     position: relative;
     background: transparent;
     width: 100%;
-    left: 0;
-    height: 15%;
+    height: 20%;
     overflow: hidden;
     display: inline-flex;
     border-radius: 10px;
@@ -236,13 +235,13 @@ a{
     position: relative;
     width: 36px;
     border-radius: 50px;
+    margin-top: 1rem;
 }
 #Contact12{
     position: relative;
     width: 36px;
     border-radius: 50px;
-    margin-top: auto;
-    margin-bottom: bottom;
+    top: 10%;
 }
 #Login{
     position: fixed;
@@ -255,7 +254,7 @@ a{
     overflow: hidden;
     box-shadow: 1px 1px 2px 1px black;
 }
-input{
+input,textarea{
     width: 80%;
     display: block;
     text-align: center;
