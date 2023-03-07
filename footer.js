@@ -1,8 +1,8 @@
 let footerData='\
-<img id="Account1" loading="lazy" src="https://drive.google.com/uc?export=download&id=1W4PUUikwqrvZhM2iFFEce22p6rR0zp3h" onclick="News()">\
-<img id="Account1" loading="lazy" src="https://drive.google.com/uc?export=download&id=1S2eZR7hgzPI86igsRJhCK-Fa8WOz-FQv"  onclick="Music()">\
-<img id="Account1" loading="lazy" src="https://drive.google.com/uc?export=download&id=1sMi515ekspF4SYA-9tHNW9puT4j-Joej"  onclick="Artist()">\
-<img id="Account1" loading="lazy" src="https://drive.google.com/uc?export=download&id=1RWm5Ur0HWH0aBCQLZniprR9_XmKEVRaP"  onclick="Settings()">\
+<img id="Account1" loading="lazy" src="https://drive.google.com/uc?export=download&id=1XP1h-dBj1FTXa4cUPbAoMyFuU0KIRKqu" onclick="News()">\
+<img id="Account1" loading="lazy" src="https://drive.google.com/uc?export=download&id=1NdZWbFrAvKzTnMxJ8NUZoSHaTfbYiMgW"  onclick="Music()">\
+<img id="Account1" loading="lazy" src="https://drive.google.com/uc?export=download&id=1y-OkfiEgSypeQxPcyyaWRkun8rdaSjhn"  onclick="Artist()">\
+<img id="Account1" loading="lazy" src="https://drive.google.com/uc?export=download&id=10crIT7DqaCEI69Drvt-heae-uRohPaig"  onclick="Settings()">\
 ';
 
 News=()=>{

@@ -12,9 +12,9 @@ let EssenData='\
     <audio controls muted  src="https://drive.google.com/uc?export=download&id=1jAA2iVLqNJYOFcR9w9ePMqwQhxgb1P7y" ></audio>\
     </div>\
     <div id="MusicHolder1">\
-    <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1n4s5s6KKovyOydXh_y0dc1G5aAeMIFnJ"></a>\
-    <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1SFKgWS2Wq7FTod1Jn-Uda4OZw8Tbq_SF"></a>\
-    <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1vXYhLr6FiY7_hkOjF9scdXiPTQkIB2Vo"></a>\
-    <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1m7_OuMwAr6sZrvM25HdU9m6R3uHI4Lrb"></a>\
+    <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=14qnrpjwjp82OtduOM1dNcTg2UGL5Pk10"></a>\
+    <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1GUGPoeYvwWCyx-XtYGMRL2TVpmb0zJOC"></a>\
+    <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1PIWAr2LahFqI_9Z-QC8a-rXnM6xEbtWs"></a>\
+    <a id="Links" href="https://www.e-corpcompanygroup.com"><img id="Contact" loading="lazy" src="https://drive.google.com/uc?export=download&id=1sNuTJUzIHmt9rdZB_XIoSbDdxI3b53wx"></a>\
     </div>\
     ';
