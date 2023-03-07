@@ -234,6 +234,7 @@ a{
 #Contact{
     position: relative;
     width: 36px;
+    top: 0;
     border-radius: 50px;
 }
 #Contact12{
